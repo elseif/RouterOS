@@ -1,9 +1,3 @@
-# MikroTik RouterOS Patch
-[![Patch Mikrotik RouterOS](https://github.com/elseif/MikroTikPatch/actions/workflows/main.yml/badge.svg)](https://github.com/elseif/MikroTikPatch/actions/workflows/main.yml)
-![Cloud Status](https://img.shields.io/endpoint?url=https://mikrotik.ltd/status/cloud)
-
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](./LICENSE)
-[![CoC:WTFCoC](https://img.shields.io/badge/CoC-WTFCoC-brightgreen.svg)](./CODE_OF_CONDUCT.md)
 
 **English** | [中文](./README_CN.md)
 
