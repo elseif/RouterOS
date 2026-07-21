@@ -85,7 +85,6 @@ cat /ram/startup.catlog | grep 'Hello'
 
 - [MikroTik Official Documentation](https://manual.mikrotik.com/)
 - [Telegram Group](https://t.me/+99Mw06p3K7NlMmNl)
-- [GitHub Source Code](https://github.com/elseif/MikroTikPatch)
 
 
 
